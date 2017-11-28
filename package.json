@@ -1,0 +1,15 @@
+{
+  "name": "alia-bhatt-jokes",
+  "version": "1.0.0",
+  "description": "Alia bhatt english jokes",
+  "main": "joke.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajendra Arora",
+  "license": "ISC",
+  "dependencies": {
+    "ora": "^1.3.0",
+    "request": "^2.83.0"
+  }
+}
